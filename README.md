@@ -1,4 +1,4 @@
-EasterTheHarvester
+EmailHarvester
 ================
 
 This java command line program uses a list of cities and keywords 
@@ -9,7 +9,7 @@ Use at your own risk and keep it classy.
 
 Usage:
 
-java eastertheharvester
+java emailharvester
 
 required input values:
 
